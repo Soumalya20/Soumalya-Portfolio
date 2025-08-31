@@ -62,6 +62,14 @@ Edit `src/data/portfolioData.js` to update:
 - Modify the about section in `src/components/AboutPage.jsx`
 - Add/remove projects in the data file
 
+### Images of the Website
+
+
+![](screenshots/ss1.png)
+![](screenshots/ss2.png)
+![](screenshots/ss3.png)
+![](screenshots/ss4.png)
+
 ## 📁 Project Structure
 
 ```
@@ -155,10 +163,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Portfolio**: [your-portfolio-url]
-- **GitHub**: [your-github-url]
-- **LinkedIn**: [your-linkedin-url]
-- **Email**: [your-email]
+- **Portfolio**: [soumalya-portfolio.vercel.app]
+- **GitHub**: [https://github.com/Soumalya20]
+- **LinkedIn**: [https://www.linkedin.com/in/soumalya-mukherjee-113935210/]
+- **Email**: [soumalya58342@gmail.com]
 
 ---
 
