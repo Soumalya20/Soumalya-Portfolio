@@ -65,10 +65,10 @@ Edit `src/data/portfolioData.js` to update:
 ### Images of the Website
 
 
-![](screenshots/ss1.png)
-![](screenshots/ss2.png)
-![](screenshots/ss3.png)
-![](screenshots/ss4.png)
+![](screenshots/SS1.png)
+![](screenshots/SS2.png)
+![](screenshots/SS3.png)
+![](screenshots/SS4.png)
 
 ## 📁 Project Structure
 
