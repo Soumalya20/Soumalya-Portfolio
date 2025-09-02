@@ -166,7 +166,7 @@ export default function ContactPage({ theme, socials }) {
                   </div>
                   <div>
                     <h4 className="font-semibold text-slate-900 dark:text-slate-100 mb-1">Email</h4>
-                    <p className="text-slate-600 dark:text-slate-400">you@example.com</p>
+                    <p className="text-slate-600 dark:text-slate-400">Soumalya58342@gmail.com</p>
                     <p className="text-sm text-slate-500 dark:text-slate-500">I'll respond within 24 hours</p>
                   </div>
                 </div>
